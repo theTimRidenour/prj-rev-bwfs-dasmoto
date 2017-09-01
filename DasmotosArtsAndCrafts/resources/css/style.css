@@ -1,0 +1,34 @@
+#header,
+  .price,
+  .title {
+    font-family: Helvetica;
+    font-weight: bold;
+  }
+
+#header {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url("../pattern.jpeg");
+}
+
+.price {
+  color: blue;
+}
+
+.title {
+  font-size: 32px;
+  color: white;
+}
+
+#brushes .title {
+  background-color: mediumspringgreen;
+}
+
+#frames .title {
+  background-color: lightcoral;
+}
+
+#paint .title {
+  background-color: skyblue;
+}
